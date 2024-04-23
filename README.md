@@ -16,5 +16,5 @@ docker compose up -d
 [Github](https://github.com/idoyudha/odoo-dev-recruitment)
 
 ## Images
-![Modules] (/images/modules.png)
-![Website] (/images/website.png)
+![Modules] (/images/modules.png?raw=true)
+![Website] (/images/website.png?raw=true)
