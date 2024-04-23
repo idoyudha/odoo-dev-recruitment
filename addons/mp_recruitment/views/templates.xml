@@ -1,0 +1,12 @@
+<odoo>
+    <data>
+        <template id="jobs">
+            <title>MP Recruitment Jobs</title>
+            <div>
+                <t t-foreach="jobs" t-as="job">
+                    <p><t t-esc="job.name"/> <t t-esc="job.description"/></p>
+                </t>
+            </div>
+        </template>
+    </data>
+</odoo>
